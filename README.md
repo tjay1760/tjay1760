@@ -1,5 +1,4 @@
 ### Hi there 👋
-https://github.com/tjay1760/tjay1760/blob/main/header.png
 I am John Thiong'o, 
 I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
