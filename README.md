@@ -13,7 +13,7 @@ const tjay = {
 }
 ```
 ## 🛠️ Works
-<br><br>[![Portfolio](https://img.shields.io/badge/Portfolio-Check%20It%20Out-orange)](https://shiny-crumble-fa4316.netlify.app)<br><br>
+<br>[![Portfolio](https://img.shields.io/badge/Portfolio-Check%20It%20Out-orange)](https://shiny-crumble-fa4316.netlify.app)<br><br>
 [![Resume](https://img.shields.io/badge/Resume-View_or_Download-<COLOR>.svg)](https://drive.google.com/file/d/1CUeqcUi0WjjIruV_2f0k0tlLWDY6NDRY/view?usp=sharing)
 
 
