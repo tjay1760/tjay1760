@@ -5,8 +5,8 @@
 I am John Thiong'o, 
 I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-tjay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-thiongo-10484347/)](https://www.linkedin.com/in/john-thiongo-10484347/)
-[![Medium Badge](https://img.shields.io/badge/tjay-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@tjaymurianki)](https://medium.com/@tjaymurianki)
+[![Linkedin Badge](https://img.shields.io/badge/-Tjay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-thiongo-10484347/)](https://www.linkedin.com/in/john-thiongo-10484347/)
+[![Medium Badge](https://img.shields.io/badge/Tjay-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@tjaymurianki)](https://medium.com/@tjaymurianki)
 [![Gmail Badge](https://img.shields.io/badge/-mcjthiongo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mcjthiongo@gmail.com)](mailto:mcthiongo@gmail.com)
 [![WordPress Badge](https://img.shields.io/badge/WordPress-Visit%20My%20Blog-blue?style=flat-square&logo=wordpress)](https://thetjaypod.wordpress.com/)
 
@@ -27,7 +27,7 @@ I am a Full-Stack JavaScript developer and love writing clean and maintainable c
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ludehsar&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludehsar&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=tjay1760&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjay1760&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tjay1760.tjay1760)
