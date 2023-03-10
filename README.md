@@ -12,6 +12,10 @@ const tjay = {
   funFact:"Why do programmers prefer dark mode? Because light attracts bugs!"
 }
 ```
+## 🛠️ Portfolio
+[![Portfolio](https://img.shields.io/badge/JohnThiongo-Check%20It%20Out-orange)](https://tjay1760.github.io/Mobile-portfolio/)&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 ## 🌐 Socials
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-thiongo-10484347/)](https://www.linkedin.com/in/john-thiongo-10484347/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@tjaymurianki)](https://medium.com/@tjaymurianki)
