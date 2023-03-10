@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
-
 I am John Thiong'o, 
 I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
