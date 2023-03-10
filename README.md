@@ -6,14 +6,15 @@
 ```javascript
 const tjay = {
   pronouns: ['he', 'sir', '🧑'],
-  lookingFor: ['Front-end developer' || 'Full-stack web developer',UI/UX DEsigner],
-  interests: ["Football⚽ -- COYG🔴⚪", "A.I.🤖", "Sustainability♻♻️♻",Chess,survivorSuperFan],
-  alsoA: ["SelfTaughtChef👨‍🍳",Philosopher🤔, Enterpreneur💼, Blogger📝],  
+  lookingFor: ['Front-end developer' || 'Full-stack web developer',"UI Designer", "Data Scientist"],
+  interests: ["Football⚽ -- COYG🔴⚪", "A.I.🤖", "Sustainability",Chess,survivorSuperFan],
+  alsoA: ["SelfTaughtChef👨‍🍳",Philosopher🤔, Enterpreneur💼, Blogger📝, Argonomist🥬 ],  
   funFact:"Why do programmers prefer dark mode? Because light attracts bugs!"
 }
 ```
-## 🛠️ Portfolio
-[![Portfolio](https://img.shields.io/badge/JohnThiongo-Check%20It%20Out-orange)](https://shiny-crumble-fa4316.netlify.app)
+## 🛠️ Works
+<br><br>[![Portfolio](https://img.shields.io/badge/Portfolio-Check%20It%20Out-orange)](https://shiny-crumble-fa4316.netlify.app)<br><br>
+[![Resume](https://img.shields.io/badge/Resume-View_or_Download-<COLOR>.svg)](https://drive.google.com/file/d/1CUeqcUi0WjjIruV_2f0k0tlLWDY6NDRY/view?usp=sharing)
 
 
 ## 🌐 Socials
