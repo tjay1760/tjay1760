@@ -13,7 +13,7 @@ const tjay = {
 }
 ```
 ## 🛠️ Portfolio
-[![Portfolio](https://img.shields.io/badge/JohnThiongo-Check%20It%20Out-orange)](https://tjay1760.github.io/Mobile-portfolio/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/JohnThiongo-Check%20It%20Out-orange)](https://shiny-crumble-fa4316.netlify.app)
 
 
 ## 🌐 Socials
