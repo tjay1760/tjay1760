@@ -45,6 +45,8 @@ const tjay = {
 [![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat-square)](https://www.adobe.com/products/photoshop.html)
 [![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white&style=flat-square)](https://www.adobe.com/products/illustrator.html)
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat-square)](https://sass-lang.com/)
+[![Built with Webpack](https://img.shields.io/badge/Built%20with-Webpack-blue?logo=webpack)]
+
 ## 📊 John's Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tjay1760&count_private=true&show_icons=true&include_all_commits=true)
