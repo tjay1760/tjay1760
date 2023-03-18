@@ -55,8 +55,6 @@ const tjay = {
 [![Tjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tjay1)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tjay1760.tjay1760)
-<div align="center">
   <a href = "https://commits.top/kenya.html" target="_blank">
 		<img src="https://ennsz4wdh58yl60.m.pipedream.net" alt="tjay1760" target="_blank"/> 
 	</a>
-</div>
