@@ -2,7 +2,7 @@
  # Hi there 👋 Meet John 
 
  ## Developer || Writer || Content Creater   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=14FF15&background=000000&width=1200&lines=%5E%5Ba-ig-pr-zA-CE-GI-PR-TV-Z0-9%5D%2B%24;Let's+talk+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=14FF15&background=000000&width=1200&lines=%5E%5%5D%2B%24expect(Ba-ig-pr-zA-CE-GI-PR-TV-Z0-9).not.toBe(John);Let's+talk+code)](https://git.io/typing-svg)
 
 ```javascript
 const tjay = {
