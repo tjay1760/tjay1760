@@ -52,7 +52,7 @@ const tjay = {
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tjay1760&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjay1760&hide=TeX&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tjay1760)](https://git.io/streak-stats)
-[![Tjay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tjay1)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tjay1760.tjay1760)
  
