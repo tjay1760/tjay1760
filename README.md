@@ -7,9 +7,9 @@
 ```javascript
 const tjay = {
   pronouns: ['he', 'sir', '🧑'],
-  lookingFor: ['Front-end developer' || 'Full-stack web developer',"UI Designer", "Data Scientist"],
-  interests: ["Football⚽ -- COYG🔴⚪", "A.I.🤖", "Sustainability",Chess,survivorSuperFan],
-  alsoA: ["SelfTaughtChef👨‍🍳",Philosopher🤔, Enterpreneur💼, Blogger📝, Argonomist🥬 ],  
+  lookingFor: ['Front-end developer' || 'Full-stack web developer',"UI Designer", "Data Analyst"],
+  interests: ["Football⚽ -- COYG🔴⚪", "A.I.🤖",Chess,survivorSuperFan],
+  alsoA: ["SelfTaughtChef👨‍🍳",Philosopher🤔, Enterpreneur💼, Author📝, Argonomist🥬 ],  
   funFact:"Why do programmers prefer dark mode? Because light attracts bugs!"
 }
 ```
@@ -24,6 +24,8 @@ const tjay = {
 [![Gmail Badge](https://img.shields.io/badge/-Gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mcjthiongo@gmail.com)](mailto:mcthiongo@gmail.com)
 [![WordPress Badge](https://img.shields.io/badge/WordPress-Visit%20My%20Blog-blue?style=flat-square&logo=wordpress)](https://thetjaypod.wordpress.com/)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Visit%20My%20Channel-red?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCcEeMgWcGmDL6w5Ow22TALg)
+[![FreeCodeCamp Badge](https://img.shields.io/badge/FreeCodeCamp-Visit%20My%20Profile-blue?style=flat-square&logo=freecodecamp)](https://www.freecodecamp.org/profile/tjay1760)
+
 
 
 ## ⚡ Technologies
