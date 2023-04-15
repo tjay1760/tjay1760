@@ -6,10 +6,10 @@
 
 ```javascript
 const tjay = {
-  pronouns: ['he', 'sir', '🧑'],
+  pronouns: ['He', 'sir', '🧑'],
   lookingFor: ['Front-end developer' || 'Full-stack web developer',"UI Designer", "Data Analyst"],
   interests: ["Football⚽ -- COYG🔴⚪", "A.I.🤖",Chess,survivorSuperFan],
-  alsoA: ["SelfTaughtChef👨‍🍳",Philosopher🤔, Enterpreneur💼, Author📝, Argonomist🥬 ],  
+  alsoA: ["selfTaughtChef👨‍🍳",Philosopher🤔, Enterpreneur💼, Author📝, Argonomist🥬 ],  
   funFact:"Why do programmers prefer dark mode? Because light attracts bugs!"
 }
 ```
