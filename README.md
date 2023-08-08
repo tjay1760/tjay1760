@@ -53,6 +53,15 @@ const tjay = {
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat-square)](https://sass-lang.com/)
 ![Built with Webpack](https://img.shields.io/badge/Webpack-blue?logo=webpack)
 ![Built with Figma](https://img.shields.io/badge/Figma-purple?logo=figma)
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![React Native](https://img.shields.io/badge/React%20Native-blue?logo=react)
+![Redux](https://img.shields.io/badge/Redux-purple?logo=redux)
+![Ruby](https://img.shields.io/badge/Ruby-red?logo=ruby)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-red?logo=rubyonrails)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-blue?logo=tailwindcss)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+![JSON](https://img.shields.io/badge/JSON-orange?logo=json)
+
 
 
 ## 📊 John's Stats
