@@ -65,6 +65,7 @@ const tjay = {
 
 
 ## 📊 John's Stats
+<a href="https://app.daily.dev/tjay1760"><img src="https://github.com/tjay1760/tjay1760/blob/main/devcard.svg" width="400" alt="John's Dev Card"/></a>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tjay1760&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjay1760&hide=TeX&layout=compact)
