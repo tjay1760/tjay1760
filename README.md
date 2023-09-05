@@ -22,7 +22,7 @@ const tjay = {
 
 
 ## 🌐 Socials
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-thiongo-10484347/)](linkedin.com/in/john-murianki-thiongo)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-murianki-thiongo/)](linkedin.com/in/john-murianki-thiongo)
 [![Twitter Badge](https://img.shields.io/twitter/follow/TjayPod?style=social)](https://twitter.com/TjayPod)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@tjaymurianki)](https://medium.com/@tjaymurianki)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mcjthiongo@gmail.com)](mailto:mcthiongo@gmail.com)
