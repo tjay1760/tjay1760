@@ -7,9 +7,9 @@
 ```javascript
 const tjay = {
   pronouns: ['He', 'sir', '🧑'],
-  lookingFor: ['Front-end developer' || 'Full-stack web developer',"UI/UX Designer", "Data Analyst"],
-  interests: ["Football⚽ -- COYG🔴⚪", "A.I.🤖",Chess,survivorSuperFan],
-  alsoA: ["selfTaughtChef👨‍🍳",Philosopher🤔, Enterpreneur💼, Author📝, Argonomist🥬 ],  
+  lookingFor: ['Full-stack web developer',"UI/UX", "Data Analyst"],
+  interests: ["Football⚽ -- COYG🔴⚪"],
+  alsoA: ["selfTaughtChef👨‍🍳",Thinker🤔, Indie Hacker💼, Writer📝, Argonomist🥬 ],  
   funFact:"Why do programmers prefer dark mode? Because light attracts bugs!"
 }
 ```
