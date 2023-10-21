@@ -73,4 +73,4 @@ const Tjay = {
 <a href="https://app.daily.dev/tjay1760"><img src="https://github.com/tjay1760/tjay1760/blob/main/devcard.svg" width="400" alt="John's Dev Card"/></a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tjay1760.tjay1760)
- 
+ [![committers.top badge](https://user-badge.committers.top/kenya/tjay1760.svg)](https://user-badge.committers.top/kenya/tjay1760)
