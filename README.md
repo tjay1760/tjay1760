@@ -10,7 +10,7 @@ const Tjay = {
   lookingFor: ['Full-stack web developer',"UI/UX", "Data Analyst"],
   interests: ["Football⚽ -- COYG🔴⚪"],
   alsoA: ["selfTaughtChef👨‍🍳",Thinker🤔, Entrepreneur💼, Writer📝, Argonomist🥬 ],  
-  funFact:"Why do programmers prefer dark mode? Because light attracts bugs!"
+  funFact:"How do you comfort a JavaScript bug? You console it."
 }
 ```
 ## 🛠️ Works
