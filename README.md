@@ -67,8 +67,6 @@ const Tjay = {
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tjay1760&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjay1760&hide=TeX&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tjay1760)](https://git.io/streak-stats)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/tjay1760/langs)](https://githubtrends.io)
-<!--<a href="https://app.daily.dev/tjay1760"><img src="https://github.com/tjay1760/tjay1760/blob/main/devcard.svg" width="400" alt="John's Dev Card"/></a>-->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tjay1760.tjay1760)
  [![committers.top badge](https://user-badge.committers.top/kenya_private/tjay1760.svg)](https://user-badge.committers.top/kenya_private/tjay1760)
