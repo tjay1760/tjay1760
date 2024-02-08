@@ -14,7 +14,7 @@ const Tjay = {
 }
 ```
 ## 🛠️ Works
-<br>[![Portfolio](https://img.shields.io/badge/Portfolio-Check%20It%20Out-orange)](https://shiny-crumble-fa4316.netlify.app)<br><br>
+<br>[![Portfolio](https://img.shields.io/badge/Portfolio-Check%20It%20Out-orange)](tjay.me)<br><br>
 [![Resume](https://img.shields.io/badge/Resume-View_or_Download-<COLOR>.svg)](https://drive.google.com/file/d/1CUeqcUi0WjjIruV_2f0k0tlLWDY6NDRY/view?usp=sharing)
 
 [![Upwork](https://img.shields.io/badge/Upwork-Hire_me-14A800.svg)](https://www.upwork.com/freelancers/~01afcd660a1a10fc74?viewMode=1)
@@ -38,24 +38,24 @@ const Tjay = {
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Ruby](https://img.shields.io/badge/Ruby-red?logo=ruby)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-red?logo=rubyonrails)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-blue?logo=tailwindcss)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat-square)
 [![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Canva](https://img.shields.io/badge/-Canva-20A0F0?logo=canva&logoColor=white&style=flat-square)](https://www.canva.com/)
 [![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat-square)](https://www.adobe.com/products/photoshop.html)
-![Built with Webpack](https://img.shields.io/badge/Webpack-blue?logo=webpack)
 ![Figma](https://img.shields.io/badge/Figma-purple?logo=figma)
+![Built with Webpack](https://img.shields.io/badge/Webpack-blue?logo=webpack)
 ![React](https://img.shields.io/badge/React-blue?logo=react)
 ![React Native](https://img.shields.io/badge/React%20Native-blue?logo=react)
-![Ruby](https://img.shields.io/badge/Ruby-red?logo=ruby)
-![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-red?logo=rubyonrails)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-blue?logo=tailwindcss)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 [![Postman](https://img.shields.io/badge/Postman-orange?logo=postman)](https://www.postman.com/)
 [![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux)](https://www.linux.org/)
 
