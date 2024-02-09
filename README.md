@@ -56,6 +56,7 @@ const Tjay = {
 ![React Native](https://img.shields.io/badge/React%20Native-blue?logo=react)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/-Mongoose-maroon?style=flat-square&logo=Mongoose)
 [![Postman](https://img.shields.io/badge/Postman-orange?logo=postman)](https://www.postman.com/)
 [![Linux](https://img.shields.io/badge/Linux-yellow?logo=linux)](https://www.linux.org/)
 
