@@ -51,7 +51,6 @@ const Tjay = {
 [![Canva](https://img.shields.io/badge/-Canva-20A0F0?logo=canva&logoColor=white&style=flat-square)](https://www.canva.com/)
 [![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat-square)](https://www.adobe.com/products/photoshop.html)
 ![Figma](https://img.shields.io/badge/Figma-purple?logo=figma)
-![Built with Webpack](https://img.shields.io/badge/Webpack-blue?logo=webpack)
 ![React](https://img.shields.io/badge/React-blue?logo=react)
 ![React Native](https://img.shields.io/badge/React%20Native-blue?logo=react)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
