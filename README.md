@@ -10,7 +10,9 @@ const Tjay = {
   lookingFor: ['Full-stack Dev',"UI/UX", "Data Analyst"],
   interests: ["⚽"-- COYG🔴⚪"],
   alsoA: ["selfTaughtChef👨‍🍳",Thinker🤔, Entrepreneur💼, Writer📝, Argonomist🥬 ],  
-  heSays: "Just Read the docs... FFS"
+  heSays: "Just Read the docs... FFS",
+  upSkilling: Linux, Node, SaaS
+
 }
 ```
 ## 🛠️ Works
