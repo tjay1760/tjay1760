@@ -11,13 +11,13 @@ const Tjay = {
   interests: ["⚽"-- COYG🔴⚪"],
   alsoA: ["selfTaughtChef👨‍🍳",Thinker🤔, Entrepreneur💼, Writer📝, Argonomist🥬 ],  
   heSays: "Just Read the docs... FFS",
-  Making: Swahili Scrabble,
+  making: Swahili Scrabble,
   upSkilling: Linux, Node, SaaS
 
 }
 ```
 ## 🛠️ Works
-<br>[![Portfolio](https://img.shields.io/badge/Portfolio-Check%20It%20Out-orange)](tjay.me)<br><br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Check%20It%20Out-orange)](https://tjay.me)
 [![Resume](https://img.shields.io/badge/Resume-View_or_Download-<COLOR>.svg)](https://drive.google.com/file/d/1CUeqcUi0WjjIruV_2f0k0tlLWDY6NDRY/view?usp=sharing)
 
 [![Upwork](https://img.shields.io/badge/Upwork-Hire_me-14A800.svg)](https://www.upwork.com/freelancers/~01afcd660a1a10fc74?viewMode=1)
