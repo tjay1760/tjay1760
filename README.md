@@ -12,7 +12,7 @@ const Tjay = {
   alsoA: ["selfTaughtChef👨‍🍳", Entrepreneur💼, Writer📝, Argonomist🥬 ],  
   heSays: "Just Read the docs... FFS",
   making: Swahili Scrabble,
-  upSkilling: Linux, Node, SaaS
+  upSkilling: ["Linux", "Node", "SaaS"]
 
 }
 ```
