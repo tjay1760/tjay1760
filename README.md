@@ -8,7 +8,7 @@
 const Tjay = {
   pronouns: ['👨'],
   lookingFor: ['Full-stack Dev',"UI/UX", "Data Analyst"],
-  interests: ["⚽"-- COYG🔴⚪"],
+  interests: ["-- COYG🔴⚪"],
   alsoA: ["selfTaughtChef👨‍🍳", Entrepreneur💼, Writer📝, Argonomist🥬 ],  
   heSays: "Just Read the docs... FFS",
   making: Swahili Scrabble,
