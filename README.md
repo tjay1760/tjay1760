@@ -11,7 +11,7 @@ const Tjay = {
   interests: ["-- COYG🔴⚪"],
   alsoA: ["selfTaughtChef👨‍🍳", Entrepreneur💼, Writer📝, Argonomist🥬 ],  
   heSays: "Just Read the docs... FFS",
-  making: Swahili Scrabble,
+  making: "Swahili Scrabble",
   upSkilling: ["Linux", "Node", "SaaS"]
 
 }
