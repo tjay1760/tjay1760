@@ -7,7 +7,7 @@
 ```javascript
 const Tjay = {
   pronouns: ['👨'],
-  lookingFor: ['Full-stack Devdevelopment',"UI/UX design", "Data Analysis"],
+  lookingFor: ['Full-stack development',"UI/UX design", "Data Analysis"],
   interests: ["-- COYG🔴⚪"],
   alsoA: ["selfTaughtChef👨‍🍳", Entrepreneur💼, Writer📝, Argonomist🥬 ],  
   heSays: "Just Read the docs... FFS",
