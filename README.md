@@ -32,6 +32,7 @@ const Tjay = {
 [![WordPress Badge](https://img.shields.io/badge/WordPress-Visit%20My%20Blog-blue?style=flat-square&logo=wordpress)](https://thetjaypod.wordpress.com/)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Visit%20My%20Channel-red?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCcEeMgWcGmDL6w5Ow22TALg)
 [![FreeCodeCamp Badge](https://img.shields.io/badge/FreeCodeCamp-Visit%20My%20Profile-blue?style=flat-square&logo=freecodecamp)](https://www.freecodecamp.org/tjay1760)
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank-Visit%20My%20Profile-black?style=flat-round&logo=hackerrank)](https://www.hackerrank.com/profile/mcjthiongo)
 
 
 
