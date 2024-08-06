@@ -9,7 +9,7 @@ const Tjay = {
   pronouns: ['👨', Him],
   lookingFor: ['Full-stack development',"Web design", "Data Analysis"],
   interests: ["-- COYG🔴⚪],
-  alsoA: ["Entrepreneur💼", "Writer📝","Argonomist🥬"],  
+  alsoA: ["Entrepreneur💼", "Writer📝","Argonomist🥬",Educator],  
   factos: "Just read the docs... FFS",
   building: "Swahili Scrabble",
   upSkilling: ["3D","NodeJS","AI]
