@@ -2,7 +2,7 @@
  # Hi there 👋 Meet Tjay
 
  ##  Thinker || Creator || Indie Hacker   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=14FF15&background=000000&width=1200&lines=expect(/^(^[John])$/ig).not.toBe(John);Let's+talk+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=14FF15&background=000000&width=1200&lines=expect(/^(^[John])$/gi).not.toBe(John);Let's+talk+code)](https://git.io/typing-svg)
 
 ```javascript
 const Tjay = {
